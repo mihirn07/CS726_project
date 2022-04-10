@@ -1,4 +1,4 @@
-# CS726_project
+# Image Colorization using Conditional Adversarial Auto-Encoders 
 
 Course Project Repo of the course [CS726: Advanced Machine Learning](https://www.cse.iitb.ac.in/~sunita/cs726/)<br />
-Team Blurons
+Team Blurons - Mihir Nandawat, Satwik Murarka, Deepak Thorat, Rhythm Shah
